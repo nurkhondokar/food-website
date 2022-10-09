@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+ï¿½or create a new repository on the command line
 
 echo "# nurkhondokar" >> README.md
 
@@ -10,7 +10,9 @@ git remote add origin https://github.com/nurkhondokar/nurkhondokar.git
 git push -u origin main
 
 
-…or push an existing repository from the command line
+ï¿½or push an existing repository from the command line
 git remote add origin https://github.com/nurkhondokar/nurkhondokar.git
 git branch -M main
 git push -u origin main
+
+pawerd by nurkhondokar
